@@ -1,0 +1,24 @@
+{
+  "name": "react-server-side-app",
+  "version": "1.0.0",
+  "description": "React server side rendering with express js, redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sibinx7/offer-zone.git"
+  },
+  "keywords": [
+    "SSR",
+    "Express",
+    "Redux"
+  ],
+  "author": "Sibin Xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sibinx7/offer-zone/issues"
+  },
+  "homepage": "https://github.com/sibinx7/offer-zone#readme"
+}
