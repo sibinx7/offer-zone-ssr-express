@@ -2,9 +2,12 @@
   "name": "react-server-side-app",
   "version": "1.0.0",
   "description": "React server side rendering with express js, redux",
-  "main": "index.js",
+  "main": "build-server/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "",
+    "start-client": "",
+    "start-server": ""
   },
   "repository": {
     "type": "git",
@@ -20,5 +23,18 @@
   "bugs": {
     "url": "https://github.com/sibinx7/offer-zone/issues"
   },
-  "homepage": "https://github.com/sibinx7/offer-zone#readme"
+  "homepage": "https://github.com/sibinx7/offer-zone#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "i": "^0.3.6",
+    "npm": "^6.11.3",
+    "react": "^16.9.0",
+    "react-redux": "^7.1.1",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
 }
