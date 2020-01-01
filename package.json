@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "",
     "start-client": "",
-    "start-server": ""
+    "start-server": "",
+    "flow": ""
   },
   "repository": {
     "type": "git",
