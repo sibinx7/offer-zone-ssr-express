@@ -27,7 +27,7 @@
   "homepage": "https://github.com/sibinx7/offer-zone#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "i": "^0.3.6",
     "npm": "^6.13.4",
     "react": "^16.12.0",
